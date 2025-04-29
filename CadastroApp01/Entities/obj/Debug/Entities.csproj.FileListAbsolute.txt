@@ -1,0 +1,6 @@
+C:\Users\mathe\source\repos\CadastroApp01\Entities\bin\Debug\Entities.dll
+C:\Users\mathe\source\repos\CadastroApp01\Entities\bin\Debug\Entities.pdb
+C:\Users\mathe\source\repos\CadastroApp01\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\CadastroApp01\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\CadastroApp01\Entities\obj\Debug\Entities.dll
+C:\Users\mathe\source\repos\CadastroApp01\Entities\obj\Debug\Entities.pdb

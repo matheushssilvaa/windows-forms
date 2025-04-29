@@ -1,0 +1,9 @@
+C:\Users\mathe\source\repos\CadastroApp01\Repository2\bin\Debug\Repository2.dll
+C:\Users\mathe\source\repos\CadastroApp01\Repository2\bin\Debug\Repository2.pdb
+C:\Users\mathe\source\repos\CadastroApp01\Repository2\bin\Debug\Entities.dll
+C:\Users\mathe\source\repos\CadastroApp01\Repository2\bin\Debug\Entities.pdb
+C:\Users\mathe\source\repos\CadastroApp01\Repository2\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\CadastroApp01\Repository2\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\CadastroApp01\Repository2\obj\Debug\Repository.csproj.Up2Date
+C:\Users\mathe\source\repos\CadastroApp01\Repository2\obj\Debug\Repository2.dll
+C:\Users\mathe\source\repos\CadastroApp01\Repository2\obj\Debug\Repository2.pdb
